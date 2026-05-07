@@ -190,7 +190,10 @@ La WATO EX-20 cuenta con dos posiciones de vaporizador y es compatible con vapor
 Dispone de un control de concentración giratorio y un sistema de bloqueo (interlock) que impide el uso simultáneo de dos vaporizadores.
 
 ## Válvula APL
-[![valvula-apl.jpg](https://i.postimg.cc/YCXQfnQ5/valvula-apl.jpg)](https://postimg.cc/qN3tpGbw)
+
+<p align="center">
+  <img src="https://i.postimg.cc/YCXQfnQ5/valvula-apl.jpg" width="300">
+</p>
 La válvula APL (Airway Pressure Limit) se ubica cerca de la bolsa reservorio.
 
 Su función es ajustar el límite de presión del sistema de respiración durante la ventilación manual y proteger los pulmones del paciente contra presiones excesivas.
