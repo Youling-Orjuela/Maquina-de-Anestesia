@@ -38,6 +38,10 @@ También conocida como “sedación moderada”, se usa en procedimientos menos 
 
 La diferencia con la anestesia general es que la respiración puede ser lenta, pero el paciente nunca dependerá completamente de la respiración artificial. A las pocas horas después del procedimiento el paciente recobrará la consciencia y se habrá librado de los efectos secundarios y las complicaciones de la anestesia general.
 
+<p align="center">
+  <img src="https://i.postimg.cc/qqdyVhGp/tipos-de-anestesia.jpg" width="500">
+</p>
+
 ---
 
 # Sistema de suministro de gases
@@ -71,6 +75,10 @@ El O₂ y el N₂O provenientes de cilindros (bombonas) se conectan al equipo a 
 En caso de ventilación mecánica, durante la inspiración, el gas fluye a través del recipiente absorbente de CO₂, la válvula inspiratoria, el sensor de O₂ y el sensor de flujo inspiratorio hasta el paciente.
 
 Los gases provenientes de la red hospitalaria ingresan a media presión, mientras que los cilindros de respaldo lo hacen a alta presión.
+
+<p align="center">
+  <img src="https://i.postimg.cc/FHcv1YyC/gases-medicinales.jpg" width="400">
+</p>
 
 ---
 
@@ -118,6 +126,9 @@ También advierte que no se debe esterilizar por autoclave el sensor de O₂ y q
 - Componentes electrónicos.
 - Sensores no compatibles.
 
+<p align="center">
+  <img src="https://i.postimg.cc/JzqLj9F6/maquina-de-anestesia.jpg" width="500">
+</p>
 ---
 
 # Modos de ventilación
@@ -209,6 +220,9 @@ Contiene cal sodada, la cual reacciona químicamente con el CO₂ exhalado por e
 Cuando el absorbente se agota, cambia de color.
 
 La WATO EX-20 dispone de una válvula de derivación que permite reemplazar el recipiente durante una cirugía.
+<p align="center">
+  <img src="https://i.postimg.cc/LXpVtbZm/canister.jpg" width="300">
+</p>
 
 ## Fuelle
 
@@ -217,7 +231,9 @@ El fuelle hace parte del ensamblado del sistema de ventilación mecánica.
 Durante la espiración, el gas exhalado fluye hacia el fuelle y, durante la inspiración siguiente, este se comprime para enviar nuevamente el gas al paciente.
 
 También permite visualizar de forma directa que la ventilación está ocurriendo correctamente.
-
+<p align="center">
+  <img src="https://i.postimg.cc/c4r54P7H/fuelle.jpg" width="300">
+</p>
 ---
 
 # Seguridad y procedimientos operacionales
@@ -292,18 +308,79 @@ La WATO EX-20 también dispone de un sistema auxiliar de succión para procedimi
 
 # Análisis de resultados
 
-Durante la práctica se evidenció que la máquina de anestesia WATO EX-20 integra múltiples subsistemas que deben operar de manera sincronizada para garantizar la seguridad del paciente.
+## ¿Qué tipos de anestésicos son los más usados en cirugía?
 
-Las fallas más frecuentes suelen relacionarse con:
+Los anestésicos más utilizados en cirugía pueden clasificarse en anestésicos inhalatorios, intravenosos, analgésicos opioides y bloqueadores neuromusculares. Cada uno cumple una función específica durante el procedimiento quirúrgico.
 
-- Fugas en el sistema respiratorio.
-- Agotamiento del absorbente de CO₂.
-- Problemas de alimentación eléctrica.
-- Descalibración del sensor de oxígeno.
-- Errores de configuración del ventilador.
+### Anestésicos inhalatorios
 
-El mantenimiento preventivo y la verificación previa al uso resultan fundamentales para minimizar riesgos clínicos y garantizar un funcionamiento seguro del equipo.
+Son administrados mediante la máquina de anestesia y se utilizan principalmente para mantener la anestesia general. Los más empleados actualmente son:
 
+- **Sevoflurano:** ampliamente utilizado por su rápida inducción y recuperación, además de producir menor irritación respiratoria.
+- **Isoflurano:** anestésico inhalatorio estable y económico, muy utilizado en cirugías prolongadas.
+- **Desflurano:** permite recuperación rápida debido a su baja solubilidad sanguínea, aunque requiere vaporizadores especiales.
+
+Estos agentes son vaporizados e incorporados a la mezcla gaseosa administrada al paciente por la máquina de anestesia.
+
+### Anestésicos intravenosos
+
+Se usan principalmente para la inducción anestésica o sedación.
+
+- **Propofol:** uno de los anestésicos intravenosos más utilizados por su rápida acción y recuperación.
+- **Ketamina:** produce anestesia y analgesia, manteniendo relativamente estables las funciones cardiovasculares.
+- **Etomidato:** utilizado en pacientes hemodinámicamente inestables debido a su menor efecto cardiovascular.
+
+### Analgésicos opioides
+
+Se utilizan para el control del dolor intraoperatorio y postoperatorio.
+
+- **Fentanilo**
+- **Remifentanilo**
+- **Morfina**
+
+Estos medicamentos reducen la respuesta fisiológica al dolor durante la cirugía.
+
+### Bloqueadores neuromusculares
+
+Permiten la relajación muscular durante procedimientos quirúrgicos e intubación endotraqueal.
+
+- **Rocuronio**
+- **Vecuronio**
+- **Succinilcolina**
+
+Estos fármacos facilitan la ventilación mecánica y mejoran las condiciones quirúrgicas.
+
+---
+
+## ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
+
+La máquina de anestesia Mindray WATO EX-35 representa una versión más avanzada respecto al modelo WATO EX-20, incorporando mejoras en monitoreo, ventilación, seguridad y automatización.
+
+### Diferencias principales
+
+| Característica | WATO EX-20 | WATO EX-35 |
+|---|---|---|
+| Pantalla | Pantalla básica | Pantalla táctil más grande y moderna |
+| Modos ventilatorios | Básicos | Modos avanzados de ventilación |
+| Monitoreo | Funciones esenciales | Monitoreo respiratorio más completo |
+| Automatización | Menor | Mayor integración y automatización |
+| Interfaz de usuario | Más simple | Más intuitiva y configurable |
+| Capacidad de expansión | Limitada | Mayor integración con módulos y monitoreo |
+
+### Mejoras del EX-35
+
+El modelo EX-35 incorpora funciones más modernas orientadas a aumentar la seguridad clínica y facilitar el trabajo del anestesiólogo. Entre las mejoras más relevantes se encuentran:
+
+- Mayor capacidad de monitoreo respiratorio.
+- Mejor integración con sistemas hospitalarios.
+- Interfaz gráfica más avanzada.
+- Configuración más flexible de parámetros ventilatorios.
+- Mejoras en alarmas y seguridad operacional.
+- Mayor precisión en control de flujo y ventilación.
+
+Además, el EX-35 está diseñado para entornos quirúrgicos más complejos y procedimientos de mayor exigencia clínica.
+
+---
 ---
 
 # Conclusiones
