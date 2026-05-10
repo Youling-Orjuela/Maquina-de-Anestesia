@@ -46,7 +46,7 @@ La diferencia con la anestesia general es que la respiración puede ser lenta, p
 
 # Sistema de suministro de gases
 
-La máquina de anestesia Mindray WATO EX-20 trabaja con tres gases principales: O₂ (oxígeno), N₂O (óxido nitroso) y aire medicinal comprimido.
+La máquina de anestesia Mindray WATO EX-20 trabaja con tres gases principales: O₂ (oxígeno), N₂O (óxido nitroso) y aire medicinal comprimido. [1]
 
 | Gas | Función |
 |---|---|
@@ -58,7 +58,7 @@ La máquina de anestesia Mindray WATO EX-20 trabaja con tres gases principales: 
 
 Es el gas primordial. Mantiene la oxigenación del paciente durante la cirugía y es la base sobre la cual se mezclan los demás gases.
 
-La WATO EX-20 incluye un botón de flujo rápido (flush) que suministra flujos abundantes de O₂ al sistema de respiración en caso de emergencia. También dispone de suministro auxiliar de O₂ de 0–15 l/min.
+La WATO EX-20 incluye un botón de flujo rápido (flush) que suministra flujos abundantes de O₂ al sistema de respiración en caso de emergencia. También dispone de suministro auxiliar de O₂ de 0–15 l/min. [1]
 
 ## Óxido Nitroso (N₂O)
 
@@ -66,13 +66,13 @@ Gas anestésico complementario que potencia el efecto de los agentes inhalados, 
 
 ## Aire medicinal comprimido
 
-Alternativa al N₂O en pacientes en los que este último está contraindicado (embarazadas, cirugía de oídos, etc.). Sirve como gas portador y diluyente del O₂.
+Alternativa al N₂O en pacientes en los que este último está contraindicado (embarazadas, cirugía de oídos, etc.). Sirve como gas portador y diluyente del O₂. [1]
 
 ## Sistema de alta presión
 
 El O₂ y el N₂O provenientes de cilindros (bombonas) se conectan al equipo a través del sistema de alta presión.
 
-En caso de ventilación mecánica, durante la inspiración, el gas fluye a través del recipiente absorbente de CO₂, la válvula inspiratoria, el sensor de O₂ y el sensor de flujo inspiratorio hasta el paciente.
+En caso de ventilación mecánica, durante la inspiración, el gas fluye a través del recipiente absorbente de CO₂, la válvula inspiratoria, el sensor de O₂ y el sensor de flujo inspiratorio hasta el paciente. [1]
 
 Los gases provenientes de la red hospitalaria ingresan a media presión, mientras que los cilindros de respaldo lo hacen a alta presión.
 
