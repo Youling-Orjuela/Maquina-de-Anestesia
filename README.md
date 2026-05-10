@@ -131,15 +131,11 @@ El ventilador de la WATO EX-20 presenta diferentes modos de ventilación que per
 
 ## Manual / Bolsa (Bag)
 
-Permite la ventilación manual por parte del anestesiólogo usando la bolsa reservorio.
-
-En este modo se utiliza la válvula APL para ajustar el límite de presión del sistema de respiración y el volumen de gas de la bolsa manual.
+Permite la ventilación manual por parte del anestesiólogo usando la bolsa reservorio. En este modo se utiliza la válvula APL para ajustar el límite de presión del sistema de respiración y el volumen de gas de la bolsa manual. [1]
 
 ## VCV — Ventilación Controlada por Volumen
 
-La ventilación controlada por volumen (VCV) es un modo en el cual el ventilador entrega un volumen tidal predeterminado.
-
-El rango de volumen tidal es de 40–1500 ml, con compensación de volumen tidal.
+La ventilación controlada por volumen (VCV) es un modo en el cual el ventilador entrega un volumen tidal predeterminado. El rango de volumen tidal es de 40–1500 ml, con compensación de volumen tidal. [1]
 
 Los parámetros ajustables incluyen:
 
@@ -151,17 +147,11 @@ Los parámetros ajustables incluyen:
 
 ## PCV — Ventilación Controlada por Presión
 
-En la ventilación mandatoria controlada por presión (PCV), la presión de ventilación está preestablecida.
-
-El volumen tidal viene determinado por la resistencia y complianza pulmonar del paciente, ofreciendo menor riesgo de barotrauma.
-
-Este modo puede ser opcional según la configuración del equipo.
+En la ventilación mandatoria controlada por presión (PCV), la presión de ventilación está preestablecida. El volumen tidal viene determinado por la resistencia y complianza pulmonar del paciente, ofreciendo menor riesgo de barotrauma. Este modo puede ser opcional según la configuración del equipo. [8]
 
 ## VISO / SIMV
 
-También referida como ventilación obligatoria intermitente sincronizada.
-
-Permite que el paciente realice respiraciones espontáneas entre las respiraciones mandatorias.
+También referida como ventilación obligatoria intermitente sincronizada. Permite que el paciente realice respiraciones espontáneas entre las respiraciones mandatorias. [1]
 
 Incluye:
 
@@ -170,9 +160,7 @@ Incluye:
 
 ## Pausa inspiratoria
 
-La pausa inspiratoria se activa dentro del modo VCV.
-
-Esta función permite medir la presión plateau (presión meseta), lo cual es clave para evaluar la compliance pulmonar del paciente.
+La pausa inspiratoria se activa dentro del modo VCV. Esta función permite medir la presión plateau (presión meseta), lo cual es clave para evaluar la compliance pulmonar del paciente. [1]
 
 ---
 
@@ -396,3 +384,4 @@ Finalmente, se evidenció que el correcto funcionamiento de la máquina depende 
 5. Fischler, I. S., et al. *Understanding of anesthesia machine function is enhanced with a transparent reality simulation*.
 6. “_EducationMaterialsFrame”, Children's Minnesota , 11 de agosto de 2016 https://www.childrensmn.org/educationmaterials/teens/article/11403/tipos-de-anestesia/
 7. LaCardio, “Tipos de Anestesia: Local, Regional y General | LaCardio”, LaCardio , 2025. https://www.lacardio.org/tipos-de-anestesia-mas-comunes-cuales-son/ (consultado el 1 de mayo de 2026).
+8. “La ventilación controlada o mandatoria”, Weinmann-emergency.com , 2023. https://www.weinmann-emergency.com/es/temas/ventilacion/ventilacion-mandatoria
