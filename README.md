@@ -168,9 +168,7 @@ La pausa inspiratoria se activa dentro del modo VCV. Esta función permite medir
 
 ## Vaporizador
 
-El vaporizador se ubica en la parte superior/frontal de la máquina, conectado al sistema de gases frescos.
-
-Es el dispositivo encargado de transformar un agente anestésico líquido en vapor e incorporarlo a la mezcla gaseosa en la concentración indicada por el clínico.
+El vaporizador se ubica en la parte superior/frontal de la máquina, conectado al sistema de gases frescos. Es el dispositivo encargado de transformar un agente anestésico líquido en vapor e incorporarlo a la mezcla gaseosa en la concentración indicada por el clínico. [1]
 
 La WATO EX-20 cuenta con dos posiciones de vaporizador y es compatible con vaporizadores de:
 
@@ -180,39 +178,25 @@ La WATO EX-20 cuenta con dos posiciones de vaporizador y es compatible con vapor
 - Desflurano
 - Enflurano
 
-Dispone de un control de concentración giratorio y un sistema de bloqueo (interlock) que impide el uso simultáneo de dos vaporizadores.
+Dispone de un control de concentración giratorio y un sistema de bloqueo (interlock) que impide el uso simultáneo de dos vaporizadores. [1]
 
 ## Válvula APL
 
 <p align="center">
   <img src="https://i.postimg.cc/YCXQfnQ5/valvula-apl.jpg" width="300">
 </p>
-La válvula APL (Airway Pressure Limit) se ubica cerca de la bolsa reservorio.
-
-Su función es ajustar el límite de presión del sistema de respiración durante la ventilación manual y proteger los pulmones del paciente contra presiones excesivas.
-
-Por encima de 30 cmH₂O se perciben clics al girar el mando.
+La válvula APL (Airway Pressure Limit) se ubica cerca de la bolsa reservorio. Su función es ajustar el límite de presión del sistema de respiración durante la ventilación manual y proteger los pulmones del paciente contra presiones excesivas. Por encima de 30 cmH₂O se perciben clics al girar el mando. [1]
 
 ## Recipiente absorbente de CO₂
 
-Se ubica generalmente en la parte frontal/inferior del sistema respiratorio.
-
-Contiene cal sodada, la cual reacciona químicamente con el CO₂ exhalado por el paciente para eliminarlo del circuito respiratorio.
-
-Cuando el absorbente se agota, cambia de color.
-
-La WATO EX-20 dispone de una válvula de derivación que permite reemplazar el recipiente durante una cirugía.
+Se ubica generalmente en la parte frontal/inferior del sistema respiratorio. Contiene cal sodada, la cual reacciona químicamente con el CO₂ exhalado por el paciente para eliminarlo del circuito respiratorio. Cuando el absorbente se agota, cambia de color. La WATO EX-20 dispone de una válvula de derivación que permite reemplazar el recipiente durante una cirugía. [1]
 <p align="center">
   <img src="https://i.postimg.cc/LXpVtbZm/canister.jpg" width="300">
 </p>
 
 ## Fuelle
 
-El fuelle hace parte del ensamblado del sistema de ventilación mecánica.
-
-Durante la espiración, el gas exhalado fluye hacia el fuelle y, durante la inspiración siguiente, este se comprime para enviar nuevamente el gas al paciente.
-
-También permite visualizar de forma directa que la ventilación está ocurriendo correctamente.
+El fuelle hace parte del ensamblado del sistema de ventilación mecánica. Durante la espiración, el gas exhalado fluye hacia el fuelle y, durante la inspiración siguiente, este se comprime para enviar nuevamente el gas al paciente. También permite visualizar de forma directa que la ventilación está ocurriendo correctamente. [1]
 <p align="center">
   <img src="https://i.postimg.cc/c4r54P7H/fuelle.jpg" width="300">
 </p>
