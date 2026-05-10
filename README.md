@@ -11,15 +11,15 @@ En esta práctica se realizó el reconocimiento funcional de la máquina de anes
 
 # Tipos de anestesia
 
-La anestesia se divide en tres categorías principales: local, regional y general; todas ellas afectan el sistema nervioso de algún modo y se pueden administrar a través de varios métodos y diferentes medicamentos. A estas tres se suma la sedación como modalidad adicional en ciertos procedimientos.
+La anestesia se divide en tres categorías principales: local, regional y general; todas ellas afectan el sistema nervioso de algún modo y se pueden administrar a través de varios métodos y diferentes medicamentos. A estas tres se suma la sedación como modalidad adicional en ciertos procedimientos. [6]
 
 ## Anestesia Local
 
-Un medicamento anestésico (que se puede aplicar como una inyección, un aerosol o un ungüento) adormece sólo una pequeña zona específica del cuerpo (por ejemplo, un pie, una mano o un área de la piel). Con anestesia local, la persona está despierta o sedada, dependiendo de lo que se necesite. La anestesia local dura poco tiempo y suele usarse para procedimientos menores en pacientes ambulatorios.
+Un medicamento anestésico (que se puede aplicar como una inyección, un aerosol o un ungüento) adormece sólo una pequeña zona específica del cuerpo (por ejemplo, un pie, una mano o un área de la piel). Con anestesia local, la persona está despierta o sedada, dependiendo de lo que se necesite. La anestesia local dura poco tiempo y suele usarse para procedimientos menores en pacientes ambulatorios. [6]
 
 ## Anestesia Regional
 
-El medicamento anestésico se inyecta cerca de un grupo de nervios y adormece una extensa área del cuerpo (por ejemplo, de la cintura hacia abajo, como las epidurales que se administran a las mujeres que están en trabajo de parto). Por lo general, la anestesia regional se utiliza para que una persona esté más cómoda durante y después del procedimiento quirúrgico. La anestesia regional y la general suelen combinarse.
+El medicamento anestésico se inyecta cerca de un grupo de nervios y adormece una extensa área del cuerpo (por ejemplo, de la cintura hacia abajo, como las epidurales que se administran a las mujeres que están en trabajo de parto). Por lo general, la anestesia regional se utiliza para que una persona esté más cómoda durante y después del procedimiento quirúrgico. La anestesia regional y la general suelen combinarse. [6]
 
 Dentro de ella se distinguen dos subtipos comunes:
 
@@ -28,15 +28,15 @@ Dentro de ella se distinguen dos subtipos comunes:
 
 ## Anestesia General
 
-La anestesia general se utiliza para procedimientos más complejos o invasivos, como cirugías cardíacas o de grandes órganos. El paciente está completamente dormido y no siente dolor ni recuerda el procedimiento.
+La anestesia general se utiliza para procedimientos más complejos o invasivos, como cirugías cardíacas o de grandes órganos. El paciente está completamente dormido y no siente dolor ni recuerda el procedimiento. [7]
 
-Este tipo de anestesia se administra a través de inhalación o intravenosa y requiere un monitoreo constante para asegurar la seguridad del paciente durante todo el procedimiento. La máquina de anestesia WATO EX-20 está diseñada precisamente para administrar esta modalidad.
+Este tipo de anestesia se administra a través de inhalación o intravenosa y requiere un monitoreo constante para asegurar la seguridad del paciente durante todo el procedimiento. La máquina de anestesia WATO EX-20 está diseñada precisamente para administrar esta modalidad. [7]
 
 ## Sedación moderada o consciente
 
 También conocida como “sedación moderada”, se usa en procedimientos menos invasivos, como algunos exámenes diagnósticos o cirugía menor.
 
-La diferencia con la anestesia general es que la respiración puede ser lenta, pero el paciente nunca dependerá completamente de la respiración artificial. A las pocas horas después del procedimiento el paciente recobrará la consciencia y se habrá librado de los efectos secundarios y las complicaciones de la anestesia general.
+La diferencia con la anestesia general es que la respiración puede ser lenta, pero el paciente nunca dependerá completamente de la respiración artificial. A las pocas horas después del procedimiento el paciente recobrará la consciencia y se habrá librado de los efectos secundarios y las complicaciones de la anestesia general. [7]
 
 <p align="center">
   <img src="https://i.postimg.cc/qqdyVhGp/tipos-de-anestesia.jpg" width="500">
@@ -400,3 +400,5 @@ Finalmente, se evidenció que el correcto funcionamiento de la máquina depende 
 3. Sherwin, M. A., & Eisenkraft, J. B. *Anesthesia hazards: What is the role of the anesthesia machine?*  
 4. Dondelinger, R. M. *Anesthesia Machines*.  
 5. Fischler, I. S., et al. *Understanding of anesthesia machine function is enhanced with a transparent reality simulation*.
+6. “_EducationMaterialsFrame”, Children's Minnesota , 11 de agosto de 2016 https://www.childrensmn.org/educationmaterials/teens/article/11403/tipos-de-anestesia/
+7. LaCardio, “Tipos de Anestesia: Local, Regional y General | LaCardio”, LaCardio , 2025. https://www.lacardio.org/tipos-de-anestesia-mas-comunes-cuales-son/ (consultado el 1 de mayo de 2026).
