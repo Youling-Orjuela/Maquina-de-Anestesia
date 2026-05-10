@@ -258,7 +258,7 @@ El sensor de O₂ influye directamente en la prueba del sistema de control de fl
 
 ## Sistema de presión negativa y evacuación de gases
 
-El sistema de presión negativa corresponde al sistema de evacuación de gases anestésicos residuales (AGSS). Su propósito es eliminar gases anestésicos sobrantes y proteger al personal médico frente a exposiciones prolongadas. [1]
+El sistema de presión negativa corresponde al sistema de evacuación de gases anestésicos residuales (AGSS). Su propósito es eliminar gases anestésicos sobrantes y proteger al personal médico frente a exposiciones prolongadas. [9]
 
 ### Funciones principales
 
@@ -266,7 +266,7 @@ El sistema de presión negativa corresponde al sistema de evacuación de gases a
 2. Evitar acumulación ambiental de anestésicos.
 3. Cumplir normativas hospitalarias.
 
-La WATO EX-20 también dispone de un sistema auxiliar de succión para procedimientos clínicos. [1]
+La WATO EX-20 también dispone de un sistema auxiliar de succión para procedimientos clínicos. [9]
 
 ---
 
@@ -367,3 +367,4 @@ Finalmente, se evidenció que el correcto funcionamiento de la máquina depende 
 6. “_EducationMaterialsFrame”, Children's Minnesota , 11 de agosto de 2016 https://www.childrensmn.org/educationmaterials/teens/article/11403/tipos-de-anestesia/
 7. LaCardio, “Tipos de Anestesia: Local, Regional y General | LaCardio”, LaCardio , 2025. https://www.lacardio.org/tipos-de-anestesia-mas-comunes-cuales-son/ (consultado el 1 de mayo de 2026).
 8. “La ventilación controlada o mandatoria”, Weinmann-emergency.com , 2023. https://www.weinmann-emergency.com/es/temas/ventilacion/ventilacion-mandatoria
+9. “Función Sistemas Evacuación De Gases Anestésicos | Equisones” , Equisones , 27 de enero de 2025. https://equisones.com/funcionamiento-sistemas-evacuacion-de-gases-anestesicos/ (consultado el 1 de mayo de 2026).
