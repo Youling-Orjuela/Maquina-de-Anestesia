@@ -56,9 +56,7 @@ La máquina de anestesia Mindray WATO EX-20 trabaja con tres gases principales: 
 
 ## Oxígeno (O₂)
 
-Es el gas primordial. Mantiene la oxigenación del paciente durante la cirugía y es la base sobre la cual se mezclan los demás gases.
-
-La WATO EX-20 incluye un botón de flujo rápido (flush) que suministra flujos abundantes de O₂ al sistema de respiración en caso de emergencia. También dispone de suministro auxiliar de O₂ de 0–15 l/min. [1]
+Es el gas primordial. Mantiene la oxigenación del paciente durante la cirugía y es la base sobre la cual se mezclan los demás gases. La WATO EX-20 incluye un botón de flujo rápido (flush) que suministra flujos abundantes de O₂ al sistema de respiración en caso de emergencia. También dispone de suministro auxiliar de O₂ de 0–15 l/min. [1]
 
 ## Óxido Nitroso (N₂O)
 
@@ -70,9 +68,7 @@ Alternativa al N₂O en pacientes en los que este último está contraindicado (
 
 ## Sistema de alta presión
 
-El O₂ y el N₂O provenientes de cilindros (bombonas) se conectan al equipo a través del sistema de alta presión.
-
-En caso de ventilación mecánica, durante la inspiración, el gas fluye a través del recipiente absorbente de CO₂, la válvula inspiratoria, el sensor de O₂ y el sensor de flujo inspiratorio hasta el paciente. [1]
+El O₂ y el N₂O provenientes de cilindros (bombonas) se conectan al equipo a través del sistema de alta presión. En caso de ventilación mecánica, durante la inspiración, el gas fluye a través del recipiente absorbente de CO₂, la válvula inspiratoria, el sensor de O₂ y el sensor de flujo inspiratorio hasta el paciente. [1]
 
 Los gases provenientes de la red hospitalaria ingresan a media presión, mientras que los cilindros de respaldo lo hacen a alta presión.
 
