@@ -62,7 +62,7 @@ La WATO EX-20 incluye un botón de flujo rápido (flush) que suministra flujos a
 
 ## Óxido Nitroso (N₂O)
 
-Gas anestésico complementario que potencia el efecto de los agentes inhalados, reduciendo la dosis necesaria de los mismos. Tiene propiedades analgésicas leves.
+Gas anestésico complementario que potencia el efecto de los agentes inhalados, reduciendo la dosis necesaria de los mismos. Tiene propiedades analgésicas leves. [1]
 
 ## Aire medicinal comprimido
 
