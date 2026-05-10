@@ -350,6 +350,7 @@ Además, el EX-35 está diseñado para entornos quirúrgicos más complejos y pr
 La máquina de anestesia Mindray WATO EX-20 no incorpora una bomba de infusión intravenosa integrada, ya que su funcionamiento principal está orientado a la anestesia inhalatoria mediante gases medicinales, vaporizadores anestésicos, ventilador mecánico, sistema respiratorio y sistema de evacuación de gases. Por esta razón, cuando durante un procedimiento quirúrgico se requiere administrar medicamentos intravenosos de forma continua, como propofol, remifentanilo, fentanilo, midazolam o relajantes neuromusculares, se utiliza una bomba de infusión externa como equipo complementario.
 
 El tipo de bomba que suele emplearse en conjunto con una máquina de anestesia como la WATO EX-20 es una bomba de jeringa para anestesia intravenosa total, especialmente aquellas con modos TIVA o TCI, ya que permiten administrar fármacos con precisión y control durante la cirugía. Un ejemplo compatible dentro del mismo ecosistema del fabricante es la Mindray BeneFusion 5 Series, particularmente modelos de bomba de jeringa orientados a infusión anestésica. Por tanto, la WATO EX-20 no utiliza una bomba propia, pero puede complementarse clínicamente con una bomba de jeringa externa tipo TIVA/TCI, como la Mindray BeneFusion, para apoyar la administración de anestesia intravenosa [13], [14], [15].
+
 ---
 
 # Conclusiones
