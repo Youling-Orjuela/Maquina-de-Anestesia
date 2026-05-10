@@ -84,7 +84,7 @@ Los gases provenientes de la red hospitalaria ingresan a media presión, mientra
 
 # Sistema respiratorio
 
-El sistema de respiración es el conjunto de componentes que conecta la máquina con el paciente y permite conducir la mezcla de gases frescos, recibir el gas exhalado, absorber CO₂, permitir ventilación manual o mecánica y evacuar gases sobrantes.
+El sistema de respiración es el conjunto de componentes que conecta la máquina con el paciente y permite conducir la mezcla de gases frescos, recibir el gas exhalado, absorber CO₂, permitir ventilación manual o mecánica y evacuar gases sobrantes. [1]
 
 ## Funciones principales
 
