@@ -284,11 +284,11 @@ Son administrados mediante la máquina de anestesia y se utilizan principalmente
 - **Isoflurano:** anestésico inhalatorio estable y económico, muy utilizado en cirugías prolongadas.
 - **Desflurano:** permite recuperación rápida debido a su baja solubilidad sanguínea, aunque requiere vaporizadores especiales.
 
-Estos agentes son vaporizados e incorporados a la mezcla gaseosa administrada al paciente por la máquina de anestesia.
+Estos agentes son vaporizados e incorporados a la mezcla gaseosa administrada al paciente por la máquina de anestesia. [10]
 
 ### Anestésicos intravenosos
 
-Se usan principalmente para la inducción anestésica o sedación.
+Se usan principalmente para la inducción anestésica o sedación. [11]
 
 - **Propofol:** uno de los anestésicos intravenosos más utilizados por su rápida acción y recuperación.
 - **Ketamina:** produce anestesia y analgesia, manteniendo relativamente estables las funciones cardiovasculares.
@@ -296,13 +296,13 @@ Se usan principalmente para la inducción anestésica o sedación.
 
 ### Analgésicos opioides
 
-Se utilizan para el control del dolor intraoperatorio y postoperatorio.
+Se utilizan para el control del dolor intraoperatorio y postoperatorio. 
 
 - **Fentanilo**
 - **Remifentanilo**
 - **Morfina**
 
-Estos medicamentos reducen la respuesta fisiológica al dolor durante la cirugía.
+Estos medicamentos reducen la respuesta fisiológica al dolor durante la cirugía. [11]
 
 ### Bloqueadores neuromusculares
 
@@ -312,13 +312,13 @@ Permiten la relajación muscular durante procedimientos quirúrgicos e intubaci�
 - **Vecuronio**
 - **Succinilcolina**
 
-Estos fármacos facilitan la ventilación mecánica y mejoran las condiciones quirúrgicas.
+Estos fármacos facilitan la ventilación mecánica y mejoran las condiciones quirúrgicas. [11]
 
 ---
 
 ## ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
 
-La máquina de anestesia Mindray WATO EX-35 representa una versión más avanzada respecto al modelo WATO EX-20, incorporando mejoras en monitoreo, ventilación, seguridad y automatización.
+La máquina de anestesia Mindray WATO EX-35 representa una versión más avanzada respecto al modelo WATO EX-20, incorporando mejoras en monitoreo, ventilación, seguridad y automatización. [1]
 
 ### Diferencias principales
 
@@ -342,7 +342,7 @@ El modelo EX-35 incorpora funciones más modernas orientadas a aumentar la segur
 - Mejoras en alarmas y seguridad operacional.
 - Mayor precisión en control de flujo y ventilación.
 
-Además, el EX-35 está diseñado para entornos quirúrgicos más complejos y procedimientos de mayor exigencia clínica.
+Además, el EX-35 está diseñado para entornos quirúrgicos más complejos y procedimientos de mayor exigencia clínica. [12]
 
 ---
 ---
@@ -368,3 +368,6 @@ Finalmente, se evidenció que el correcto funcionamiento de la máquina depende 
 7. LaCardio, “Tipos de Anestesia: Local, Regional y General | LaCardio”, LaCardio , 2025. https://www.lacardio.org/tipos-de-anestesia-mas-comunes-cuales-son/ (consultado el 1 de mayo de 2026).
 8. “La ventilación controlada o mandatoria”, Weinmann-emergency.com , 2023. https://www.weinmann-emergency.com/es/temas/ventilacion/ventilacion-mandatoria
 9. “Función Sistemas Evacuación De Gases Anestésicos | Equisones” , Equisones , 27 de enero de 2025. https://equisones.com/funcionamiento-sistemas-evacuacion-de-gases-anestesicos/ (consultado el 1 de mayo de 2026).
+10. Guerrero-Domínguez, R. et al. Agentes Anestésicos Inhalados: Revisión de usos y complicaciones durante la cirugía. Revista Portales Médicos, 2024. Disponible en: https://www.revista-portalesmedicos.com/revista-medica/agentes-anestesicos-inhalados-revision-de-usos-y-complicaciones-durante-la-cirugia/
+11. Suárez-Gonzalo, L. et al. Anestesia intravenosa total: Propofol/remifentanil vs. midazolam/remifentanil en cirugía torácica. Revista Cubana de Anestesiología y Reanimación, 2020. Disponible en: http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1726-67182020000100004
+12. Mindray. WATO EX-35 — Rendimiento excepcional. Brochure oficial (ES). Disponible en: https://bioequipos.com.co/wp-content/uploads/2024/08/Maquina_anestesia_WATO-EX-35_Mindray.pdf
