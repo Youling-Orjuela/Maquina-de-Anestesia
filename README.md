@@ -346,6 +346,10 @@ Además, el EX-35 está diseñado para entornos quirúrgicos más complejos y pr
 
 ---
 ## ¿Qué bomba de infusión utiliza la maquina de anestesia WATO EX-20?
+
+La máquina de anestesia Mindray WATO EX-20 no incorpora una bomba de infusión intravenosa integrada, ya que su funcionamiento principal está orientado a la anestesia inhalatoria mediante gases medicinales, vaporizadores anestésicos, ventilador mecánico, sistema respiratorio y sistema de evacuación de gases. Por esta razón, cuando durante un procedimiento quirúrgico se requiere administrar medicamentos intravenosos de forma continua, como propofol, remifentanilo, fentanilo, midazolam o relajantes neuromusculares, se utiliza una bomba de infusión externa como equipo complementario.
+
+El tipo de bomba que suele emplearse en conjunto con una máquina de anestesia como la WATO EX-20 es una bomba de jeringa para anestesia intravenosa total, especialmente aquellas con modos TIVA o TCI, ya que permiten administrar fármacos con precisión y control durante la cirugía. Un ejemplo compatible dentro del mismo ecosistema del fabricante es la Mindray BeneFusion 5 Series, particularmente modelos de bomba de jeringa orientados a infusión anestésica. Por tanto, la WATO EX-20 no utiliza una bomba propia, pero puede complementarse clínicamente con una bomba de jeringa externa tipo TIVA/TCI, como la Mindray BeneFusion, para apoyar la administración de anestesia intravenosa [13], [14], [15].
 ---
 
 # Conclusiones
@@ -372,3 +376,7 @@ Finalmente, se evidenció que el correcto funcionamiento de la máquina depende 
 10. Guerrero-Domínguez, R. et al. Agentes Anestésicos Inhalados: Revisión de usos y complicaciones durante la cirugía. Revista Portales Médicos, 2024. Disponible en: https://www.revista-portalesmedicos.com/revista-medica/agentes-anestesicos-inhalados-revision-de-usos-y-complicaciones-durante-la-cirugia/
 11. Suárez-Gonzalo, L. et al. Anestesia intravenosa total: Propofol/remifentanil vs. midazolam/remifentanil en cirugía torácica. Revista Cubana de Anestesiología y Reanimación, 2020. Disponible en: http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1726-67182020000100004
 12. Mindray. WATO EX-35 — Rendimiento excepcional. Brochure oficial (ES). Disponible en: https://bioequipos.com.co/wp-content/uploads/2024/08/Maquina_anestesia_WATO-EX-35_Mindray.pdf
+13. Mindray. “BeneFusion 5 Series - Infusion System”. Mindray, s. f. Disponible en: https://www.mindray.com/en/products/infusion-system/benefusion-5-series
+14. Mindray. “Serie BeneFusion 5: sistema de infusión”. Mindray Latinoamérica, s. f. Disponible en: https://www.mindray.com/pe/products/infusion-system/benefusion-5-series
+15. Nimmo, A. F., Absalom, A. R., Bagshaw, O., Biswas, A., Cook, T. M., Costello, A., Grimes, S., Mulvey, D., Shinde, S., Whitehouse, T., & Wiles, M. D. “Guidelines for the safe practice of total intravenous anaesthesia (TIVA)”. Anaesthesia, vol. 74, no. 2, pp. 211–224, 2019. DOI: https://doi.org/10.1111/anae.14428
+16. National Center for Biotechnology Information. “Guidelines for the safe practice of total intravenous anaesthesia (TIVA)”. PubMed, 2019. Disponible en: https://pubmed.ncbi.nlm.nih.gov/30378102/
