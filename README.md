@@ -345,6 +345,7 @@ El modelo EX-35 incorpora funciones más modernas orientadas a aumentar la segur
 Además, el EX-35 está diseñado para entornos quirúrgicos más complejos y procedimientos de mayor exigencia clínica. [12]
 
 ---
+## ¿Qué bomba de infusión utiliza la maquina de anestesia WATO EX-20?
 ---
 
 # Conclusiones
