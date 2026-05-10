@@ -106,9 +106,7 @@ El sistema de respiración es el conjunto de componentes que conecta la máquina
 
 ## Esterilización y autoclave
 
-El manual indica que las partes marcadas como autoclavables pueden esterilizarse, con temperatura máxima recomendada de 134 °C.
-
-También advierte que no se debe esterilizar por autoclave el sensor de O₂ y que se deben respetar las indicaciones del fabricante para cada pieza.
+El manual indica que las partes marcadas como autoclavables pueden esterilizarse, con temperatura máxima recomendada de 134 °C. También advierte que no se debe esterilizar por autoclave el sensor de O₂ y que se deben respetar las indicaciones del fabricante para cada pieza. [1]
 
 ### Componentes que podrían esterilizarse
 
